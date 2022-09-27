@@ -1,0 +1,16 @@
+{
+  "name": "playwright-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test":"playwright test"
+  },
+  "keywords": ["playwright", "reportportal"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.26.0",
+    "@reportportal/agent-js-playwright": "^5.0.7"
+  }
+}
